@@ -61,6 +61,7 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 
 /* USER CODE BEGIN Private defines */
+extern TIM_HandleTypeDef htim3;
 
 /* USER CODE END Private defines */
 
